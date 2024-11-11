@@ -1,0 +1,16 @@
+{
+  "aironet": [
+    {
+        "host_ip": "10.32.10.3",
+        "hostname": "CiscoAutomation32",
+        "username": "admin", 
+        "password": "pass",
+        "ssid": "32-SOGOFREEWIFINOHACKCHAN",
+        "authentication": "open",
+        "key-man": "WPA",
+        "wifi-pass": "C1sc0123",
+        "channel": "9",
+        "enc-mod": "tkip"
+    }
+  ]
+}
